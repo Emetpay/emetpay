@@ -1,5 +1,9 @@
-## Hi there 👋
+# EmetPay
 
+Crypto alert platform
+
+Website: https://emetpay.com
+Telegram: https://t.me/emetpay
 <!--
 **Emetpay/emetpay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
